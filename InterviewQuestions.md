@@ -58,7 +58,7 @@ Entry Level Java Developers start at 70k
 
 * What is the difference between system.out, System.err and System.in? 
 
-4 Pillars of Object Oriented Programming
+* [x] 4 Pillars of Object Oriented Programming
 
 * What is inheritance in Java?
 
