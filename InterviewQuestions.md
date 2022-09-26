@@ -1,7 +1,15 @@
 # General Questions I have been asked in an interview
 
 **Tell me about your favorite comp sci class?**
-
+* Data Structures
+ * I feel this class really set my foundation for thinking algorithmically.
+ * Data Structures I learned (In Java)
+  * Arrays
+  * Linked Lists
+  * Trees
+  * Hash Maps
+  * Stacks
+  * Queues
 **Tell me about a group project you worked on?**
 
 **How do you solve a problem that you are stuck on?** 
