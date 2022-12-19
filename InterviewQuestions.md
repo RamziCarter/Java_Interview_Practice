@@ -75,3 +75,9 @@ Entry Level Java Developers start at 70k
 * [ ] What is polymorphism?
   
 * [ ] What is encapsulation?
+
+
+--- 
+
+### Projects
+[Google Drive](https://docs.google.com/document/d/10aoGuzvb6A-wDKP-c0ZH6WvCHtKzNldHN8KI0RL4_QY/edit "Click Here")
