@@ -81,3 +81,14 @@ Entry Level Java Developers start at 70k
 
 ### Projects
 [Google Drive](https://docs.google.com/document/d/10aoGuzvb6A-wDKP-c0ZH6WvCHtKzNldHN8KI0RL4_QY/edit "Click Here")
+
+
+--- 
+
+
+### Cover Letter Information
+
+I started my computer science journey in highschool, when I attended a Hackathon. This was my first ever exposure to programming and technical collaboration. The team and I created an application to monitor body mass index, track calories, log workouts, and recommend healthy meal options for breakfast lunch and dinner. This experience sparked a new interest for logical thinkiing, collaboration, problem solving, debugging and more. 
+
+My freshman year in college is where my foundation for computer science began. We learned the basics in python. I found great joy learning how to run loops, create functions, use data structures and solve complex problems. The satisfaction I get after working through algorithms to completion is outstanding. As my journey continued, I began to pick up different languages such as java, C,  
+
