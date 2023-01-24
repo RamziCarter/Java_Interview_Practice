@@ -12,9 +12,17 @@
      * Queues
 **Tell me about a group project you worked on?**
 
+
 **How do you solve a problem that you are stuck on?** 
 
+* write out the problem on paper to visualize or pinpoint the error
+* contact a mentor/teacher/tutor
+
 **Tell me about a data structure and how do you use it?**
+
+* An array is a structure of a fixed size that allowa you to store things of the same type
+* you can use it iteratively 
+* they are multidimentional 
 
 ```
 Entry Level Java Developers start at 70k
@@ -37,6 +45,7 @@ Entry Level Java Developers start at 70k
 * Difference between JDK, JRE and JVM?
   * 
 * Heap Memory vs Stack memory?
+  * 
 
 * What are the default values stored in local variables?
 
