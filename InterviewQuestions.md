@@ -27,6 +27,27 @@
 ```
 Entry Level Java Developers start at 70k
 ```
+## General Computer Science Vocabulary
+
+* problem solving - the process of formulating a problem, finding a solution and expressing the solution
+* program - a sequence of instructions that specifies how to perform tasks on a computer
+* algorithm - a procedure or formula for solving a problem with or without a computer
+* bug - an error in the program
+* high-level language - a programming language that is designed to be easy for humans to read
+* low-level language - a programming language that is designed to be easy for computers to run (machine language or assembly language)
+* portable - the ability to run a program on more than one computer
+* compile - translation from high level language to low level language all at once in preparation for execution
+* object code - cg  vhb bn 
+* executable
+* byte code
+* statement
+* print statement
+* method
+* class
+* comment
+* string
+* newline
+* escape sequence
 
 ## Java Specific questions
 
