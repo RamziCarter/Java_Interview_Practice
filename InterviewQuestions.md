@@ -125,32 +125,6 @@ My freshman year in college is where the foundation for my computer science jour
 Today, I am eagerly searching for a position that will allow me to grow and develop within the software field as a well rounded developer! 
 
 
-
-java --> kotlin 
-XAMPP
-- setup a server on computer
- - use html
- - mySql
-- phpMyAdmin
-
-Kotlin ( bug tracker)
-- put bugs into list/array
-- upgrade bug tracker to use a database
-- android studio apps
-
-Swift
-- iphone apps
-
-Api's 
-- ip address lookup
-- imdb clone
-- bug tracker/ producrt tracker
-
-google adwords
-crime stats
-job board
-
-
 Thursday find jobs 10
 
 replit ide jobs for money!
