@@ -125,6 +125,8 @@ My freshman year in college is where the foundation for my computer science jour
 Today, I am eagerly searching for a position that will allow me to grow and develop within the software field as a well rounded developer! 
 
 
+
+---
 Thursday find jobs 10
 
 replit ide jobs for money!
